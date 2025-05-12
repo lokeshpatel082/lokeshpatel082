@@ -2,7 +2,12 @@
   
 # Lokesh Patel
 
-Hello !! &nbsp;  I'm Lokesh a prefinal year undergraduate student in NIT Raipur, I am a competitive programmer and  Web Developer. I really enjoy learning languages and frameworks like React and React Native. Currently I am learning Flutter.
+👋 Hello! I'm Lokesh, a Software Engineer with a strong foundation in competitive programming, backend systems, and web development.
+
+🔧 I work with technologies like Python, Spark, Big Data, and I'm exploring backend engineering at scale. I also enjoy building interfaces using React, React Native, and currently learning LLMS and MCP to leverage AIs capability in modern systems.
+
+🚀 Passionate about clean architecture, performance optimization, and learning how large systems work in production.
+
 
 <br />
 
