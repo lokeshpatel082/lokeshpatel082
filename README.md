@@ -49,7 +49,6 @@
 
 [1.1]: https://img.icons8.com/windows/50/000000/twitter.png (twitter icon with padding)
 [2.1]: https://img.icons8.com/android/45/000000/facebook-new.png (facebook icon with padding)
-[3.1]: https://img.icons8.com/ios-glyphs/48/000000/instagram-new.png (instagram  icon with padding)
 [4.1]: https://img.icons8.com/ios-filled/48/000000/linkedin.png (LinkedIn icon with padding)
 [5.1]: https://img.icons8.com/windows/48/000000/quora.png (Quora icon with padding)
 [6.1]: https://img.icons8.com/ios-filled/48/000000/github.png (github icon with padding)
@@ -63,7 +62,6 @@
 
 [1]: http://www.twitter.com/im_the_Loki
 [2]: http://www.facebook.com/iamtheloki/
-[3]: https://www.instagram.com/lokii_4_u/
 [4]: https://www.linkedin.com/in/lokesh-patel-9025051a9/
 [5]: https://www.quora.com/profile/Lokesh-488
 [6]: http://www.github.com/lokeshpatel082
